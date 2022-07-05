@@ -1,7 +1,5 @@
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/cuiqg/art@master/favicon/logo.png" style="max-width:300px" alt="Logo">
+<img src="https://unpkg.com/@cuiqg/art@latest/favicon/logo.png" style="max-width:300px" alt="Logo">
 </p>
 
-```
-https://unpkg.com/browse/@cuiqg/art/
-```
+[](https://unpkg.com/browse/@cuiqg/art/)
