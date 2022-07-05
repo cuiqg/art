@@ -1,0 +1,15 @@
+{
+  "name": "art",
+  "version": "1.0.0",
+  "description": "Assets Files",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuiqg/art.git"
+  },
+  "author": "tsuiqg <i@tsuiqg.xyz>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/cuiqg/art/issues"
+  },
+  "homepage": "https://github.com/cuiqg/art#readme"
+}
