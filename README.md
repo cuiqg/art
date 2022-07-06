@@ -2,4 +2,6 @@
 <img src="https://unpkg.com/@cuiqg/art@latest/favicon/logo.png" style="max-width:300px" alt="Logo">
 </p>
 
-[](https://unpkg.com/browse/@cuiqg/art/)
+<p align="center">
+  <a href="https://unpkg.com/browse/@cuiqg/art/" target="_blank" rel="noopener">https://unpkg.com/browse/@cuiqg/art/</a>
+</p>
