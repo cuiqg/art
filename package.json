@@ -8,8 +8,8 @@
   },
   "author": "tsuiqg <i@tsuiqg.xyz>",
   "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/cuiqg/art/issues"
+  "publishConfig": {
+    "access": "public"
   },
   "homepage": "https://github.com/cuiqg/art#readme"
 }
