@@ -6,7 +6,7 @@
     "type": "git",
     "url": "git+https://github.com/cuiqg/art.git"
   },
-  "author": "tsuiqg <i@tsuiqg.xyz>",
+  "author": "tsuiqg <i@tsuiqg.me>",
   "license": "WTFPL",
   "publishConfig": {
     "access": "public"
