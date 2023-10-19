@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://www.jsdelivr.com/package/gh/cuiqg/art" target="_blank" rel="noopener">https://www.jsdelivr.com/package/gh/cuiqg/artart/</a>
+  <a href="https://www.jsdelivr.com/package/gh/cuiqg/art" target="_blank" rel="noopener">https://www.jsdelivr.com/package/gh/cuiqg/art</a>
 </p>
