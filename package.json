@@ -1,6 +1,6 @@
 {
   "name": "@cuiqg/art",
-  "version": "1.8.2",
+  "version": "0.0.1",
   "description": "Assets Files",
   "repository": {
     "type": "git",
@@ -11,5 +11,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/cuiqg/art#readme"
+  "scripts": {
+    "release" : "bumpp"
+  },
+  "homepage": "https://github.com/cuiqg/art#readme",
+  "devDependencies": {
+    "bumpp": "^9.5.2"
+  }
 }
