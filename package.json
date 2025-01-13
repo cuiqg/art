@@ -1,18 +1,16 @@
 {
   "name": "@cuiqg/art",
   "version": "1.0.0",
-  "description": "Assets Files",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cuiqg/art.git"
-  },
-  "author": "tsuiqg <i@tsuiqg.me>",
+  "description": "Static files for @cuiqg",
+  "repository": "github:cuiqg/art",
+  "author": "Tsuiqg <i@tsuiqg.me>",
   "license": "WTFPL",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
-    "release" : "bumpp"
+    "release" : "bumpp && npm publish"
   },
   "homepage": "https://github.com/cuiqg/art#readme",
   "devDependencies": {
