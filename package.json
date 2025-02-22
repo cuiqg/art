@@ -10,10 +10,14 @@
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
-    "release" : "bumpp && npm publish"
+    "release": "bumpp && npm publish"
   },
   "homepage": "https://github.com/cuiqg/art#readme",
   "devDependencies": {
-    "bumpp": "^9.5.2"
-  }
+    "bumpp": "^10.0.3"
+  },
+  "files": [
+    "icon/*",
+    "img/*"
+  ]
 }
