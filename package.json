@@ -1,6 +1,6 @@
 {
   "name": "@cuiqg/art",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Static files for @cuiqg",
   "repository": "github:cuiqg/art",
   "author": "Tsuiqg <i@tsuiqg.me>",
@@ -10,10 +10,11 @@
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
-    "release" : "bumpp && npm publish"
+    "postrelease": "npm publish",
+    "release": "bumpp"
   },
   "homepage": "https://github.com/cuiqg/art#readme",
   "devDependencies": {
-    "bumpp": "^9.5.2"
+    "bumpp": "^10.0.3"
   }
 }
